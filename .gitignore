@@ -3,3 +3,4 @@ debian/debhelper-build-stamp
 debian/files
 debian/droidian-berb-apt-config-trixie.substvars
 debian/droidian-berb-apt-config-trixie/
+out-droidian-berb-apt-config-trixie/
