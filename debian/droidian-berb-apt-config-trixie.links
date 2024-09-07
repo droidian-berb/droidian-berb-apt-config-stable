@@ -1,0 +1,2 @@
+/usr/share/droidian-berb-apt-config/sources.list.d/droidian-berb-trixie.sources /etc/apt/sources.list.d/droidian-berb-trixie.sources
+/usr/share/droidian-berb-apt-config/preferences.d/10-droidian-berb-trixie /etc/apt/preferences.d/10-droidian-berb-trixie
