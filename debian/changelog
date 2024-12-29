@@ -1,7 +1,9 @@
-droidian-berb-apt-config-trixie (1+git20240908014725.5cf67c0.trixie) trixie; urgency=medium
+droidian-berb-apt-config-trixie (2+git20241229215106.1753e9d.trixie) trixie; urgency=medium
 
   [berbascum]
+  * (1753e9d) (preferences) pin: fix the Pin definition 
+  * (6537902) Build release: pre-configs before building new version 1-trixie 
   * (5cf67c0) (pkg_rootfs) add: package files 
   * (feabc8c) (git) gitignore: update rules 
 
- -- berbascum <berbascum@ticv.cat>  Sun, 08 Sep 2024 01:47:25 +0200
+ -- berbascum <berbascum@ticv.cat>  Sun, 29 Dec 2024 21:51:06 +0100
